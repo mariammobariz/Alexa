@@ -65,4 +65,4 @@ while 1:
 	if recognized_text:
 		print(f"You said: {recognized_text}")
 		respond(recognized_text)
-t
+
